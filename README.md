@@ -26,6 +26,7 @@ python detection.py
 
 - `dataset/`: Contains Trainn and Split dataset.
 - `script/`: Contains the entire model and python script.
+- `notebooks/` : Contains data visualization and prediction
 - `output/`: Contains the model, However the github upload limit exists , it only contains in the admins directory not on github.
 
 ### Code Explanation 
