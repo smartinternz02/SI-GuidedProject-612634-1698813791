@@ -24,21 +24,9 @@ python detection.py
 ```
 ### Directory Structure
 
-project-root/
-|-- dataset/
-|   |-- train/
-|       |-- Fake/
-|       |-- Genuine/
-|   |-- test/
-|       |-- Fake/
-|       |-- Genuine/
-|-- scripts/
-|   |-- detection.py
-|-- output/
-|   |-- logo_detection_model.h5
-|-- README.md
-|-- requirements.txt
-
+- `dataset/`: Contains Trainn and Split dataset.
+- `script/`: Contains the entire model and python script.
+- `output/`: Contains the model, However the github upload limit exists , it only contains in the admins directory not on github.
 
 ### Code Explanation 
 ```bash
